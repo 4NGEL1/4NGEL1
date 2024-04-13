@@ -48,7 +48,7 @@ namespace Acerca.De.Mi
 </p>
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/4NGEL1/4NGEL1/blob/main/snake.svg"
        alt="snake" /></a>
 </div>
 
